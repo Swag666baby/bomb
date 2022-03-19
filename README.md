@@ -1,4 +1,4 @@
-# malware-list
+# zip and fork bomb💣
 parte da minha ideia de estudos sobre cpp é criar coisas simples 🐼
 
 # instalações ⬇️
